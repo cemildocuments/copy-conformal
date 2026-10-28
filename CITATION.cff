@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "Please cite this software when using the copy-calibration experiments."
+type: software
+title: "How Copies Break Conformal Prediction"
+version: 1.0.0
+date-released: 2026-10-27
+license: MIT
+authors:
+  - family-names: Yavas
+    given-names: Cemil Emre
+    orcid: "https://orcid.org/0009-0006-9552-1731"
+    email: cemil@fairesresearch.org
+    affiliation: Georgia Southern University
+  - family-names: Chen
+    given-names: Lei
+    orcid: "https://orcid.org/0000-0002-3919-8056"
+    affiliation: Georgia Southern University
+  - family-names: Zhang
+    given-names: Yue
+    orcid: "https://orcid.org/0009-0004-9337-6839"
+    affiliation: Georgia Southern University
+  - family-names: Mead
+    given-names: Nancy R.
+    orcid: "https://orcid.org/0000-0002-2919-086X"
+    affiliation: Carnegie Mellon University
+abstract: >-
+  Reproducible finite-sample analysis of append-only copying in conformal
+  calibration. The project contains five public regression benchmarks,
+  three fixed model families, 30 random splits, six copying mechanisms,
+  three coverage targets, independent score simulations, and exhaustive
+  rank checks. It compares rowwise, source-ID, copy-budget, and
+  effective-sample-size calibration, and quantifies coverage-width
+  trade-offs under incomplete provenance.
+keywords:
+  - conformal prediction
+  - data duplication
+  - prediction intervals
+  - uncertainty quantification
+  - reproducibility

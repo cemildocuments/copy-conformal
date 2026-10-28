@@ -1,0 +1,7 @@
+{
+  "metric_rows": 226800,
+  "source_id_invariant": true,
+  "budget_dominates_source_id": true,
+  "max_synthetic_abs_error": 0.006409523809523865,
+  "max_synthetic_standardized_error": 2.0222398093606366
+}

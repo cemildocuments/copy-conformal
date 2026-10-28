@@ -1,0 +1,10 @@
+{
+  "results/metrics.csv": "f19e8286ab7f18e329235fae1c8f11c201110d42d7e1be0049418481471b808f",
+  "results/synthetic.csv": "5eadc32db56a757d5d5bd4532e7818474cd1ee12c6edd4fc6686f60795645d71",
+  "results/datasets.csv": "3809a0d11b7dcaa99729d24adebc67a6aceca8690f6ffe6c58dbd26fa30e5e48",
+  "results/summary.csv": "77bd7c1252537bbdf5a75089777af33b56885e60206b11167d7ccc687f3143c1",
+  "results/dataset_summary.csv": "bfbac06ca12661e4bbb7bd61e4f5b3341aa643ce9ba1fe01df1aa0d600719703",
+  "results/paired.csv": "3c9f51069e5ebc422ed103f87cf1a8e218031e6009850f225a542c85f696a3b7",
+  "results/budget_sensitivity.csv": "fdecf5d5a71c4c4ed1bde78cd1b98b91add1cbe20a8a31c93008ec3344368716",
+  "results/checks.json": "479c7c830c3f5db73bdd4ea0773b134340953e8515d31a42ec8d7eb22b0eec7f"
+}

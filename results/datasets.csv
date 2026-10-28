@@ -1,0 +1,6 @@
+dataset,raw_rows,support_rows,features,removed,train,cal,test
+airfoil,1503,1503,5,0,901,300,302
+concrete,1030,1005,8,25,603,201,201
+energy,768,768,8,0,460,153,155
+wine_red,1599,1359,11,240,815,271,273
+wine_white,4898,3961,11,937,2376,792,793
